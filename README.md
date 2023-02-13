@@ -98,7 +98,7 @@ El último paso ha sido la incorporación de esta tabla maestra a una base de da
 <br>
 Una vez hecho esto, hemos volcado los datos de nuestra tabla maestra en la base de datos que hemos llamado "pokemon". Con esta acción, hemos dado por concluída la elaboración del proyecto.
 <br>
-
+<br>
 ![eerd](https://github.com/Edupastore/w4-ETL-Project/blob/main/images/eerd.jpg)
 <br>
 
@@ -107,6 +107,6 @@ Una vez hecho esto, hemos volcado los datos de nuestra tabla maestra en la base 
 ## 📊 Objetivo
 El objetivo que nos hemos marcado con este proyecto ha sido configurar una base de datos completa sobre todos los Pokémon existentes, para que nos pueda servir como herramienta de consulta (por ejemplo, cuando estemos jugando a cualquiera de los juegos principales de la franquicia).
 <br>
-
+<br>
 ![sqlpoke](https://github.com/Edupastore/w4-ETL-Project/blob/main/images/sqlpoke.jpg)
 <br>
