@@ -6,10 +6,10 @@
 ## ⛓️ Índice de contenidos
 
 1.[✍️ Descripción del proyecto](#descripción)\
-2.[🤓 Extracción de datos](#extracción)\
-3.[🗂️ Transformación](#transformación)\
-4.[🧬 Carga en base de datos](#carga)\
-5.[📊 Objetivo](#objetivo)
+2.[👀 Extracción de datos](#extracción)\
+3.[🧬 Transformación](#transformación)\
+4.[⏫ Carga en base de datos](#carga)\
+5.[📈 Objetivo](#objetivo)
 
 ## ✍️ Descripción
 
@@ -21,7 +21,7 @@ El proceso de manera detallada se expone a continuación.
 
 <a name="extracción"/>
  
-## 🤓 Extracción de datos
+## 👀 Extracción de datos
 
 En primer lugar, cabe mencionar que para la extracción de los datos sobre los Pokémon teníamos un par de limitaciones o reglas:
 <br>
@@ -77,7 +77,7 @@ Para ello, hemos vuelto a emplear Selenium y hemos extraído la información sob
 
 <a name="transformación"/>
 
-## 🗂️ Transformación
+## 🧬 Transformación
 
 El proceso de transformación ha sido, sin duda, el más tedioso y largo. Para no extendernos mucho, dejaremos a continuación una serie de pinceladas, unas líneas generales, sobre lo que hemos hecho.
 <br>
@@ -92,7 +92,7 @@ El proceso de transformación ha sido, sin duda, el más tedioso y largo. Para n
 
 <a name="carga"/>
 
-## 🧬 Carga en base de datos
+## ⏫ Carga en base de datos
 El último paso ha sido la incorporación de esta tabla maestra a una base de datos en SQL. Para ello, hemos creado en Workbench el esquema de la base de datos (configurando la tabla de Pokémon, con sus columnas y los tipos de datos de cada una de ellas).
 <br>
 <br>
@@ -104,7 +104,7 @@ Una vez hecho esto, hemos volcado los datos de nuestra tabla maestra en la base 
 
 <a name="objetivo"/>
 
-## 📊 Objetivo
+## 📈 Objetivo
 El objetivo que nos hemos marcado con este proyecto ha sido configurar una base de datos completa sobre todos los Pokémon existentes, para que nos pueda servir como herramienta de consulta (por ejemplo, cuando estemos jugando a cualquiera de los juegos principales de la franquicia).
 <br>
 <br>
