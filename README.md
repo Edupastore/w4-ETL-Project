@@ -93,7 +93,7 @@ El proceso de transformación ha sido, sin duda, el más tedioso y largo. Para n
 <br>
 - Por último, hemos concatenado ambas tablas para conformar un registro único con datos sobre todos los Pokémon existentes a fecha de hoy (13/02/2023).
 <br>
-
+<br>
 <a name="carga"/>
 
 ## 🧬 Carga en base de datos
