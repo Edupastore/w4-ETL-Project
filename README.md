@@ -82,16 +82,16 @@ Para ello, hemos vuelto a emplear Selenium y hemos extraído la información sob
 El proceso de transformación ha sido, sin duda, el más tedioso y largo. Para no extendernos mucho, dejaremos a continuación una serie de pinceladas, unas líneas generales, sobre lo que hemos hecho.
 <br>
 <br>
-    - En primer lugar, hemos limpiado los datos del primer dataset, llevando a cabo la eliminación de registros con el mismo número de Pokémon (eran distintas versiones del mismo, no Pokémon completamente distintos), la homogeneización de los datos contenidos en cada columna, hemos cambiado el formato del número de la Pokédex (de 1, 2 , 3, etcétera hemos pasado a 0001, 0002, 0003, etcétera), hemos cambiando en "legendary" los booleanos True/False por "leg"/"notleg", en "type2" hemos rellenado con "Mono" los valores nulos (para indicar que son Pokémon monotipo) y, en definitiva, hemos comprobado de manera exhaustiva que todo concordase y tuviese coherencia.
+- En primer lugar, hemos limpiado los datos del primer dataset, llevando a cabo la eliminación de registros con el mismo número de Pokémon (eran distintas versiones del mismo, no Pokémon completamente distintos), la homogeneización de los datos contenidos en cada columna, hemos cambiado el formato del número de la Pokédex (de 1, 2 , 3, etcétera hemos pasado a 0001, 0002, 0003, etcétera), hemos cambiando en "legendary" los booleanos True/False por "leg"/"notleg", en "type2" hemos rellenado con "Mono" los valores nulos (para indicar que son Pokémon monotipo) y, en definitiva, hemos comprobado de manera exhaustiva que todo concordase y tuviese coherencia.
 <br>
 <br>
-    - En segundo lugar, hemos transformado también los datos obtenidos de los dos portales Web mencionados con anterioridad y los hemos "acondicionado" de tal manera que el producto final fuese una tabla de idénticas dimensiones, con idénticos nombres de columnas e idénticos tipos de datos que los del dataset anterior. Tras una serie de transformaciones, lo conseguimos.
+- En segundo lugar, hemos transformado también los datos obtenidos de los dos portales Web mencionados con anterioridad y los hemos "acondicionado" de tal manera que el producto final fuese una tabla de idénticas dimensiones, con idénticos nombres de columnas e idénticos tipos de datos que los del dataset anterior. Tras una serie de transformaciones, lo conseguimos.
 <br>
 <br>
-    - En tercer lugar, hemos comprobado que los tipos de datos del primer dataset y del segundo fuesen iguales y hemos optimizado dichos tipos.
+- En tercer lugar, hemos comprobado que los tipos de datos del primer dataset y del segundo fuesen iguales y hemos optimizado dichos tipos.
 <br>
 <br>
-    - Por último, hemos concatenado ambas tablas para conformar un registro único con datos sobre todos los Pokémon existentes a fecha de hoy (13/02/2023).
+- Por último, hemos concatenado ambas tablas para conformar un registro único con datos sobre todos los Pokémon existentes a fecha de hoy (13/02/2023).
 <br>
 
 <a name="carga"/>
