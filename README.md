@@ -38,6 +38,7 @@ Sabiendo esto, las tres fuentes de información que hemos empleado para elaborar
 
 ![pokemain](https://github.com/Edupastore/w4-ETL-Project/blob/main/images/pokemain.jpg)
 <br>
+<br>
 El enlace al mencionado dataset es el siguiente: https://data.world/data-society/pokemon-with-stats
 <br>
 <br>
