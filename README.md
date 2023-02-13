@@ -1,6 +1,7 @@
 # w4-ETL-Project
 
-![pokemaniac](https://github.com/Edupastore/w4-ETL-Project/blob/main/pokemaniac.jpg)
+![poke](https://github.com/Edupastore/w4-ETL-Project/blob/main/pokemaniac.jpg)
+
 
 ## ⛓️ Índice de contenidos
 
