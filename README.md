@@ -36,7 +36,7 @@ Sabiendo esto, las tres fuentes de información que hemos empleado para elaborar
 <summary>DATASET DE LOS PRIMEROS 898 POKÉMON (gen. I a VIII)</summary>
 <br>
 
-![pokemain](https://github.com/Edupastore/w4-ETL-Project/blob/main/pokemain.jpg)
+![pokemain](https://github.com/Edupastore/w4-ETL-Project/blob/main/images/pokemain.jpg)
 <br>
 El enlace al mencionado dataset es el siguiente: https://data.world/data-society/pokemon-with-stats
 <br>
@@ -102,7 +102,7 @@ El último paso ha sido la incorporación de esta tabla maestra a una base de da
 Una vez hecho esto, hemos volcado los datos de nuestra tabla maestra en la base de datos que hemos llamado "pokemon". Con esta acción, hemos dado por concluída la elaboración del proyecto.
 <br>
 
-![eerd](https://github.com/Edupastore/w4-ETL-Project/blob/main/eerd.jpg)
+![eerd](https://github.com/Edupastore/w4-ETL-Project/blob/main/images/eerd.jpg)
 <br>
 
 <a name="objetivo"/>
@@ -111,5 +111,5 @@ Una vez hecho esto, hemos volcado los datos de nuestra tabla maestra en la base 
 El objetivo que nos hemos marcado con este proyecto ha sido configurar una base de datos completa sobre todos los Pokémon existentes, para que nos pueda servir como herramienta de consulta (por ejemplo, cuando estemos jugando a cualquiera de los juegos principales de la franquicia).
 <br>
 
-![sqlpoke](https://github.com/Edupastore/w4-ETL-Project/blob/main/sqlpoke.jpg)
+![sqlpoke](https://github.com/Edupastore/w4-ETL-Project/blob/main/images/sqlpoke.jpg)
 <br>
