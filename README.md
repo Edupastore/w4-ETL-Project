@@ -89,7 +89,7 @@ El proceso de transformación ha sido, sin duda, el más tedioso y largo. Para n
 - En tercer lugar, hemos comprobado que los tipos de datos del primer dataset y del segundo fuesen iguales y hemos optimizado dichos tipos.
 
 - Por último, hemos concatenado ambas tablas para conformar un registro único con datos sobre todos los Pokémon existentes a fecha de hoy (13/02/2023).
-<br>
+- 
 <a name="carga"/>
 
 ## 🧬 Carga en base de datos
